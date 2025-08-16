@@ -14,5 +14,6 @@ Apache Tomcat (Web Server Configuration & Deployment)
 Git & GitHub (Version Control)
 
 MVC Design , MONOLITHIC , AGILE 
+The Project is under Development ... as I am intending to make it better than the previous College Management system
 
 
